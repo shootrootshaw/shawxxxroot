@@ -1,0 +1,36 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+html {
+  height: 100%;
+}
+
+:root {
+  --main-bg-color-0: linear-gradient(120deg, #155799, #159957);
+  --main-bg-color-1: linear-gradient(to bottom right, red, blue);
+  --main-bg-color-2: linear-gradient(to bottom right, red, rgba(0,0,0,0));
+  --main-bg-color-3: linear-gradient(120deg, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+  --main-bg-color-4: linear-gradient(69deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  --main-bg-color-5: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  --main-bg-color-6: linear-gradient(139deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  --main-bg-color-7: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  --main-bg-color-8: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  --main-bg-color-9: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  --main-bg-color-10: radial-gradient(circle, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+  --main-bg-color-11: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  --main-bg-color-12: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+body {
+  height: 100%;
+  background-color: #155799;
+  background: var(--main-bg-color-0);
+}
+
+.page-header {
+  height: 100%;
+  background-color: transparent;
+  background-image: none;
+}

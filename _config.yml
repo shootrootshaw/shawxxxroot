@@ -1,1 +1,9 @@
+title: Shaw
+description: Maybe someday ...
+google_analytics: G-DQCLJQ2JCX
 theme: jekyll-theme-cayman
+show_urls: true
+github:
+  root_url: https://www.imdb.com/title/tt1839578/characters/nm0009918
+  shaw_url: https://www.imdb.com/title/tt1839578/characters/nm1083404
+  description: Yeah<br>sure Root<br>maybe someday
